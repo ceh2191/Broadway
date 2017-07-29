@@ -9,12 +9,22 @@ html {
 }
 
 a {color: white;
-    font-size: 18px;}
+    font-size: 18px;
+}
+
 
 h1 {font-size: 70px;
   font-weight: bold;
 }
 
-h2 {color: grey;
-  font-size: 32 px;
-  font-weight: bold;}
+h2 {font-size: 32 px;
+  font-weight: bold;
+}
+
+h3 {font-size: 23px;
+  font-weight: bold;
+}
+
+#nyc {background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png") center no-repeat;
+  color:white;
+}
